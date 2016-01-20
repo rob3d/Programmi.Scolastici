@@ -11,7 +11,7 @@ main(){
 	printf("inserisci il secondo numero intero:");
 	scanf("%i",&b);
 	printf("la media dei due numeri e':");
-	media=(a+b)/2;
+	media=((float)a+b)/2;
 	printf("%f\n",media);
 	 system("PAUSE");
 }
