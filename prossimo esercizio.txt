@@ -1,0 +1,2 @@
+Per casa
+un supermercato applica lo sconto del 20% sull importo che supera 100€, scrivi il programma che leggendo il totale della spesa, calcola l eventuale importo scontato.
