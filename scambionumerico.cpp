@@ -13,9 +13,11 @@ main(){
 	val1=val2;
 	val2=temp;
 		count=0;
-		while(count<1000){
+		while(count<100){
 			printf(".......Processando calcoli.......\n");
+			printf("%i percento effettuato.",count);
 			count=count+1;
+			system("cls");
 		}
 	printf("Ecco il nuovo valore dei val1: ");
 	printf("%i\n",val1);
