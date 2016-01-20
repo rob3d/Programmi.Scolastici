@@ -13,8 +13,8 @@ main(){
 	val1=val2;
 	val2=temp;
 		count=0;
-		while(count<10){
-			printf(".......Processando calcoli quantistici.......\n");
+		while(count<1000){
+			printf(".......Processando calcoli.......\n");
 			count=count+1;
 		}
 	printf("Ecco il nuovo valore dei val1: ");
