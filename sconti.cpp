@@ -1,3 +1,6 @@
+//ATTENZIONE! NON SONO RESPONSABILE PER L USO CHE VERRA' FATTO CON QUESTO CODICE!
+//https://github.com/santoroberto00/Programmi.Scolastici/blob/master/DISCLAIMER-LIBERATORIA.txt
+
 //Autore: Roberto Santo
 //LidlSconti
 #include <stdio.h>
