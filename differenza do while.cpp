@@ -20,6 +20,8 @@ main(){
 		{
 			diff=num1-num2;
 			printf("La differenza e':%d\n",diff);
+			num1=num2;
+			num2=diff;
 		}
 		while(diff>3);
 
